@@ -1,7 +1,7 @@
 # Useful-css-resources
 A collection of links to learn css quickly.
 
-# Learning 
+## Learning 
 
 Links to help learn the fundamentals.
 ### CSS - history
