@@ -38,7 +38,7 @@ Links to help learn the fundamentals.
  - [CSS Blend Modes Demystified](http://alistapart.com/article/blending-modes-demystified)
  - [Basics of CSS Blend Modes](https://css-tricks.com/basics-css-blend-modes/)
 
-# Useful Snippets
+## Useful Snippets
 Commonly used snippets.
 
 - [Centering in CSS](https://css-tricks.com/centering-css-complete-guide/)
