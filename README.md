@@ -34,6 +34,7 @@ Links to help learn the fundamentals.
 ### Responsive CSS
  - [CSS Media Queries & Using Available Space](https://css-tricks.com/css-media-queries/)
  - [Responsive Web Design Basics](https://developers.google.com/web/fundamentals/design-and-ui/responsive/)
+ 
 ### More
  - [CSS Blend Modes Demystified](http://alistapart.com/article/blending-modes-demystified)
  - [Basics of CSS Blend Modes](https://css-tricks.com/basics-css-blend-modes/)
