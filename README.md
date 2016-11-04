@@ -1,13 +1,5 @@
-# useful-css-resources
+# Useful-css-resources
 A collection of links to learn css quickly.
-
-
-# Useful Snippets
-Commonly used snippets.
-
-- [Centering in CSS](https://css-tricks.com/centering-css-complete-guide/)
-- [Creating your own grid in CSS](http://j4n.co/blog/Creating-your-own-css-grid-system)
-- [Coding a simple Carousel](https://www.christianheilmann.com/2015/04/08/keeping-it-simple-coding-a-carousel/)
 
 # Learning 
 
