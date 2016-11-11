@@ -19,6 +19,9 @@ Links to help learn the fundamentals.
  - [Box-sizing :border-box FTW](https://www.paulirish.com/2012/box-sizing-border-box-ftw/)
  - [Opening Up the Box-Model](http://learn.shayhowe.com/html-css/opening-the-box-model/)
 
+### CSS specificity 
+ - [Specificity](https://developer.mozilla.org/en/docs/Web/CSS/Specificity)
+
 ### Positioning
  - [Absolute, Relative, Fixed Positioning: How Do They Differ?](https://css-tricks.com/absolute-relative-fixed-positioining-how-do-they-differ/)
  
